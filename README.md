@@ -20,19 +20,19 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>GAM300 GenesisSeed</b></a></td>
+      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>GAM300 Genesis Seed</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>GAM200 CoreRGB</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>GAM150 ArcaneEscape</b></a></td>
+      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>GAM150 Arcane Escape</b></a></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>GAM100 Freeflow</b></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>GAM100 Bunny</b></a></td>
+      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>GAM100 Bunny Hops</b></a></td>
     </tr>
   </tbody>
 </table>
