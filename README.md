@@ -1,8 +1,8 @@
-<h1> Hello! Welcome to Garry Chen's Profile.</h1>
+<h1>Welcome to Garry Chen's Profile.</h1>
 
 
-<p>My name is Chen, Guan-Ye but you can call me Garry. Student game developer from <b>Taichung, Taiwan</b>, currently study at Digipen <b>WA, USA</b>. </p>
-<h3>Things I code with</h3>
+<p>Hello! My name is Chen Guan-Ye but you can call me Garry. Student game developer from <b>Taichung, Taiwan</b>, currently study at Digipen <b>WA, USA</b>. </p>
+<h3>Languages I code with</h3>
 <p>
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
