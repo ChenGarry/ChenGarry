@@ -11,25 +11,34 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
 </p>
+
 <h3>Student game projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
       <td><b>Projects</b></td>
-    </tr>
+      <td><b>Videos</b></td>
   </thead>
   <tbody>
     <tr>
+      <td><b>GAM300 Genesis Seed</b></a></td>
+      <td><a href="https://youtu.be/0KnkCVKGIIs"><b>https://youtu.be/0KnkCVKGIIs</b></a></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/ChenGarry/GAM200_CoreRGB"><b>GAM200 CoreRGB</b></a></td>
+      <td><a href="https://youtu.be/wZfhKU2dswQ"><b>https://youtu.be/wZfhKU2dswQ</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ChenGarry/GAM150_ArcaneEscape"><b>GAM150 Arcane Escape</b></a></td>
+      <td><a href="https://youtu.be/kTYDAe2NLkc"><b>https://youtu.be/kTYDAe2NLkc</b></a></td>
     </tr>
-	  <tr>
+    <tr>
       <td><a href="https://github.com/ChenGarry/GAM100_Freeflow"><b>GAM100 Freeflow</b></a></td>
+      <td><a href="https://youtu.be/tOwg3v_gdlI"><b>https://youtu.be/tOwg3v_gdlI</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ChenGarry/GAM100_Bunny"><b>GAM100 Bunny Hops</b></a></td>
+      <td><a href="https://youtu.be/tOwg3v_gdlI"><b>https://youtu.be/tOwg3v_gdlI</b></a></td>
     </tr>
   </tbody>
 </table>
