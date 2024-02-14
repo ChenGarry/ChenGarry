@@ -21,6 +21,10 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/IIcyTundra/Untitiled_GGJ2024"><b>GGJ 2024 Slap Mania</b></a></td>
+      <td><a href="https://garrychen.itch.io/slap-mania-ggj2024"><b>Itch.io Demo</b></a></td>
+    </tr>
+    <tr>
       <td><b>GAM300 Genesis Seed</b></a></td>
       <td><a href="https://youtu.be/0KnkCVKGIIs"><b>https://youtu.be/0KnkCVKGIIs</b></a></td>
     </tr>
