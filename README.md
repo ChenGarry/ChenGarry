@@ -12,40 +12,53 @@
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
 </p>
 
-<h3>Game projects 團隊遊戲專案</h3>
+<h3>Group projects 團隊遊戲專案</h3>
 <table>
   <thead align="center">
     <tr border: none;>
       <td><b>Projects 專案名</b></td>
+      <td><b>Engine</b></td>
       <td><b>Demos</b></td>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/IIcyTundra/Untitiled_GGJ2024"><b>GGJ 2024 Slap Mania</b></a></td>
+      <td><b>Godot</b></a></td>
       <td><a href="https://garrychen.itch.io/slap-mania-ggj2024"><b>Itch.io Demo</b></a></td>
     </tr>
     <tr>
-      <td><b>GAM350 Puppit</b></a></td>
+      <td><a href="https://github.com/ChenGarry/HeavyIron_UE5Tool"><b>Heavy Iron UE5 Editor Plugin</b></a></td>
+      <td><b>Unreal 5</b></a></td>
+      <td><b>N/A</b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ChenGarry/GAM350_PUPPIT"><b>GAM350 Puppit</b></a></td>
+      <td><b>Unreal 4</b></a></td>
       <td><a href="https://youtu.be/lhPkY4kuXYA"><b>Demo Video</b></a></td>
     </tr>
     <tr>
       <td><b>GAM300 Genesis Seed</b></a></td>
+      <td><b>Unity</b></a></td>
       <td><a href="https://youtu.be/0KnkCVKGIIs"><b>Demo Video</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ChenGarry/GAM200_CoreRGB"><b>GAM200 CoreRGB</b></a></td>
+      <td><b>Custom Engine</b></a></td>
       <td><a href="https://youtu.be/wZfhKU2dswQ"><b>Demo Video</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ChenGarry/GAM150_ArcaneEscape"><b>GAM150 Arcane Escape</b></a></td>
+      <td><b>Custom Engine</b></a></td>
       <td><a href="https://youtu.be/kTYDAe2NLkc"><b>Demo Video</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ChenGarry/GAM100_Freeflow"><b>GAM100 Freeflow</b></a></td>
+      <td><b>DigiPen Alpha Engine</b></a></td>
       <td><a href="https://youtu.be/tOwg3v_gdlI"><b>Demo Video</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ChenGarry/GAM100_Bunny"><b>GAM100 Bunny Hops</b></a></td>
+      <td><b>DigiPen Alpha Engine</b></a></td>
       <td><a href="https://youtu.be/tOwg3v_gdlI"><b>Demo Video</b></a></td>
     </tr>
   </tbody>
